@@ -1,5 +1,3 @@
-# japanese-kana-quiz
-
 # Japanese Kana Quiz
 
 A Python-based command-line quiz for practicing Japanese hiragana and katakana.
