@@ -44,8 +44,4 @@ How to Run
 
 Purpose
 
-This project was built as an independent Python learning project to practise programming fundamentals while creating a useful tool for studying Japanese.
-
-License
-
-No license has been specified yet.
+I built this project an independent Python learning project to practice programming fundamentals while creating a useful tool for studying Japanese.
