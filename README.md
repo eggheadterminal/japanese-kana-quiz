@@ -44,4 +44,4 @@ How to Run
 
 Purpose
 
-I built this project an independent Python learning project to practice programming fundamentals while creating a useful tool for studying Japanese.
+I built this as a learning project to practice programming fundamentals while creating a useful tool for studying Japanese.
